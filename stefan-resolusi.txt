@@ -3,4 +3,4 @@ Stefan resolusi
 - membuat project sederhana sebagai latihan(deadline akhri juni)
 - belajar html-css-javascript
 - belajar python
-- membuat konsep kasar project besar (deadline akhir juni)
+
