@@ -1,2 +1,2 @@
 # stefan_resolusi
-Repository untuk menyimpan recana WPU kedepannya
+Repository untuk menyimpan recana kedepannya
